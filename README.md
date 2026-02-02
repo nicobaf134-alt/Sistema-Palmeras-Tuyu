@@ -1,5 +1,5 @@
 # Sistema de Gestión Hotelera - Palmeras del Tuyú
-Descripción
+## Descripcion:
 Este sistema es una solución integral para la administración de plazas hoteleras, desarrollada para digitalizar el control de ingresos, egresos y facturación. El proyecto nace de mi experiencia directa en el sector, traduciendo necesidades operativas reales en una arquitectura de software funcional.
 
 ## Tecnologías usadas:
